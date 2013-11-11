@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<title>Helpful Sites</title>
+		<description>&lt;font face="Arial"&gt; &lt;b&gt;Dragonvale Links:&lt;/b&gt; &lt;br&gt;&lt;br&gt; &lt;a href="http://dragonvale.wikia.com" target=_blank&gt;Dragonvale Wiki&lt;/a&gt;&lt;br&gt; &lt;a href="http://macenstein.com/default/archives/dragonvale-2" target=_blank&gt;Macenstein&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.dragonvalebreedingguide.com" target=_blank&gt;Dragonvale Breeding Guide&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.gameteep.net/dragonvale" target=_blank&gt;Gameteep&lt;/a&gt;&lt;br&gt;&lt;a href="http://dragonvaledb.com" target=_blank&gt;Dragonvale Database&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.2084.org/dragonvale/breeding-sandbox" target=_blank&gt;Breeding Sandbox&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.gamerevolution.com/cheats/dragonvale" target=_blank&gt;Game Revolution&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.reddit.com/r/dragonvale" target=_blank&gt;Dragonvale Reddit&lt;/a&gt;&lt;br&gt;&lt;br&gt;  YouTube Videos:&lt;br&gt; &lt;a href="http://www.youtube.com/playlist?list=PL1v2cBphqCkTiZ5_6FEI-vDBMcRZ7OtFl" target=_blank&gt;wbangcaHD&lt;/a&gt;&lt;br&gt;   &lt;br&gt;&lt;br&gt; Note that some of the breeding combinations and other information in this app are from personal experience playing the game, but some of them are from one of these two websites. &lt;/font&gt;</description>
+		<image>http://images2.wikia.nocookie.net/__cb20130321000720/dragonvale/images/e/e7/SpringDragonEgg.png</image>
+		<group>Links</group>
+	</item>
+	<item>
+		<title>Game Information</title>
+		<description>&lt;font face="Arial"&gt; About Dragonvale: &lt;br&gt;&lt;br&gt;&lt;a href="http://www.backflipstudios.com/games/dragonvale" target=_blank&gt;Official Dragonvale Site&lt;/a&gt;&lt;br&gt;&lt;br&gt;Dragonvale is available on iPhone, iPad, and iPod Touch, as well as Android, which includes Amazon's Kindle Fire.&lt;br&gt;It is a free game, but there are optional in-app purchases.&lt;/font&gt;</description>
+		<image>http://www.backflipstudios.com/wp-content/uploads/2012/10/DragonVale_Icon_150x150.png</image>
+		<group>Links</group>
+	</item>
+</items>
