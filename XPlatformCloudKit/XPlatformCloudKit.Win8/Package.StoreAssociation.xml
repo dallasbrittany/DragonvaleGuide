@@ -358,11 +358,20 @@
     <MainPackageIdentityName>39938dallasbrittany.Amaryllis</MainPackageIdentityName>
     <MainPackageIdentityName>39938dallasbrittany.AnimalCrossingNewLeafWalkthrou</MainPackageIdentityName>
     <MainPackageIdentityName>39938dallasbrittany.ArtByJaredPaulWilson</MainPackageIdentityName>
+    <MainPackageIdentityName>39938dallasbrittany.BinaryDragon</MainPackageIdentityName>
     <MainPackageIdentityName>39938dallasbrittany.CampfireStories</MainPackageIdentityName>
+    <MainPackageIdentityName>39938dallasbrittany.DragonAdventureStory</MainPackageIdentityName>
     <MainPackageIdentityName>39938dallasbrittany.GrannyJosHomeCooking</MainPackageIdentityName>
     <MainPackageIdentityName>39938dallasbrittany.HolidayAdventCalendar</MainPackageIdentityName>
+    <MainPackageIdentityName>39938dallasbrittany.HolidayCountdownCalendar</MainPackageIdentityName>
     <MainPackageIdentityName>39938dallasbrittany.HolidayCraftGuide</MainPackageIdentityName>
     <MainPackageIdentityName>39938dallasbrittany.HoustonGuide</MainPackageIdentityName>
+    <MainPackageIdentityName>39938dallasbrittany.WillowWorld</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/43a283c6-9e97-4bef-b31d-b217cb4f1961" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/43a283c6-9e97-4bef-b31d-b217cb4f1961">
+    <PackageInfo>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.0.0.0</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>

@@ -52,7 +52,8 @@ namespace XPlatformCloudKit
         {
             new RssSource{Url = "https://sites.google.com/site/amaryllisdev/dragonvale-guide-1/dragonvaleguide.xml", Group = "Info"},
             new RssSource{Url = "http://gdata.youtube.com/feeds/api/playlists/PL0mY5nTJkPqd6yprg2_n5YRu3LUxWPCfk?alt=rss&max-results=50", Group = "Videos: Part 1"},
-            new RssSource{Url = "http://gdata.youtube.com/feeds/api/playlists/PL0mY5nTJkPqd6yprg2_n5YRu3LUxWPCfk?alt=rss&max-results=50", Group = "Videos: Part 2"},
+            new RssSource{Url = "http://gdata.youtube.com/feeds/api/playlists/PL0mY5nTJkPqd6yprg2_n5YRu3LUxWPCfk?alt=rss&max-results=50&start-index=51", Group = "Videos: Part 2"},
+            new RssSource{Url = "http://gdata.youtube.com/feeds/api/playlists/PL0mY5nTJkPqd6yprg2_n5YRu3LUxWPCfk?alt=rss&max-results=50&start-index=101", Group = "Videos: Part 3"},
         };
         #endregion
 
@@ -65,7 +66,7 @@ namespace XPlatformCloudKit
         //When an item of this group is selected, it will not show it's Title, Subtitle, or Image. (Ideal for Youtube RSS feeds)
         public static readonly string[] GroupsToDisplayInFullScreen = 
         {
-            "Info", "Videos: Part 1", "Videos: Part 2"
+            "Info", "Videos: Part 1", "Videos: Part 2", "Videos: Part 3"
         };
 
         //Determines whether to use the Light theme (white background / black text) over the default Dark theme

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="39938dallasbrittany.DragonvaleGuide" Publisher="CN=25F2C062-55A7-4FC2-914B-148C2A711D3F" Version="1.0.0.0" />
+  <Identity Name="39938dallasbrittany.DragonvaleGuide" Publisher="CN=25F2C062-55A7-4FC2-914B-148C2A711D3F" Version="1.0.0.3" />
   <Properties>
     <DisplayName>Dragonvale Guide</DisplayName>
     <PublisherDisplayName>Amaryllis</PublisherDisplayName>
